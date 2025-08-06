@@ -1,0 +1,5 @@
+The capital of France is Paris. Paris is known for its beautiful Eiffel Tower and the Louvre Museum, which houses the Mona Lisa.
+The Amazon rainforest is the largest rainforest in the world. It is home to an incredible diversity of plant and animal species, including jaguars, sloths, and anacondas. Deforestation is a major threat to the Amazon.
+Artificial intelligence (AI) is a rapidly developing field. Retrieval-Augmented Generation (RAG) is an AI technique that combines information retrieval with text generation, allowing large language models to provide answers grounded in specific data.
+Today's date is August 6 2025.
+The name of my cat is PinPin.
