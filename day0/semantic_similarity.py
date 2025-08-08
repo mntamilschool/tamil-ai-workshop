@@ -72,6 +72,9 @@ def demonstrate_similarity(model, tokenizer, word_pairs):
         
         # Format and display the result
         print(f"'{word1}' ↔ '{word2}': {similarity_score:.3f}")
+        print(emb1)
+        print(emb2)   
+        print("-" * 50)
 
 def main():
     """

@@ -49,8 +49,10 @@ def demonstrate_context_sensitivity(model, tokenizer):
     # Two sentences about banking with similar semantic meaning
     contexts = [
         "I deposited money at the bank.",
+        # "I deposited money at the bank.",
         # "I got the loan from the bank.",
-        "I sat by the river bank and watched the sunset.",
+        # "I sat by the river bank and watched the sunset.",
+        "I watched the sunset by the bank.",
     ]
     
     print("\nAnalyzing these sentences:")
